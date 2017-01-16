@@ -17,7 +17,7 @@ on Pi to the Node-RED application in Bluemix.
 
 
 ## Contents:
-This repository contains screenshots of the following:
+This repository contains of the following:
 * A picture of the hardware setup
 * Screenshots of Node-RED flows in Raspberry Pi and Watson IoT Platform
 * Text files containing JSON data for Node-RED flows in Raspberry Pi and IoT Platform
