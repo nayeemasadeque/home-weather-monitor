@@ -1,4 +1,4 @@
-# home-weather-monitor
+# Home-weather-monitor
 A home weather monitoring system using Node-RED and IBM Watson IoT Platform in IBM Bluemix
 
 ## The model:
